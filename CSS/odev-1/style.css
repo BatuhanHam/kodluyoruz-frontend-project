@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color:#E9DCD6;
+    font-size: large;
+    font-weight: bold;
+}
+
+img{
+    width: 300px;
+    height: 400;
+    
+}
+
+li{
+    list-style-position: inside
+    
+}
+
+h1,h2,h3,h4,h5,h6{
+    color:brown;
+    font-style: italic;
+    font-size:x-large;
+}
